@@ -175,21 +175,13 @@ https://github.com/devsilica/silica-brand
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsilica&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsilica&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=devsilica&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devsilica&theme=transparent&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsilica&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsilica&theme=github-dark&hide_border=true" />
 
 </div>
 
